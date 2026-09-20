@@ -162,4 +162,4 @@ Models are trained on historical data covering multiple seasons and regions:
 
 ---
 
-**Project maintained by**: [Harsha Vardhan](https://github.com/harsha-vardh)
+**Project maintained by**: [karthik paluvari]([https://github.com/karthikpaluvari)
